@@ -1,7 +1,8 @@
 ---
-name: Анхны хичээл 2
+name: Анхны хичээл 3
 description: Хамтдаа CSS дээр вэб хийж үзэцгээе
 author: "@ulziibox"
+img: 'https://cloud-c98vjphwp.vercel.app/2020-09-24_qz6y21hudmj4cexpmckf204uadvu2nec.png'
 ---
 
 ![15-second gif of a simple website being changed beyond recognition](https://cloud-awgd5gj78.vercel.app/hc-api-workshop-demo.gif)
