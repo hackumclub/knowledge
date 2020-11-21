@@ -10,7 +10,7 @@ You know the scenes in those home renovation reality shows where they knock down
 
 In this workshop, we're going to learn about web APIs—specifically, how they work, and how to write one that allows anyone to wreak havoc on your website. Ready to get started?
 
-# What's a web API?
+# Web API гэж юу вэ?
 
 ![Drawing of a robot that says it will accept hello and changecolor api endpoints](https://cloud-gza5tupj5.vercel.app/image_from_ios.jpg)
 
