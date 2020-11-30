@@ -53,17 +53,16 @@ Linux-based үйлдлийн системүүдийг ихэвчлэн хөгж�
 
 
 3. Rufus ашиглан Флаш дискэнд Ubuntu-гээ суулгана. 
->Флаш дискээ сонгоно. 
-![Rufus2](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/2043046195529/original/_9YiXMVDAsjaxccCMbXp9d_U8Df49OKmCQ.png?1568126656)
->Select товчыг дараад татаж авсан Үйлдлийн системээ сонгоно. 
-![Rufus3](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/2043046196405/original/0Xp-978Us2NzeTjRKbnJmMHjV4katIJwdw.png?1568126821)
->Бусад тохиргоог өөрчлөх шаардлагагүй. Start товч дээр дарна. Хэрвээ юм асуусан цонх гарч ирвэл дараах зааврын дагуу хийгээрэй.
-![Rufus4](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/2043046200686/original/IRcpmirctCclfCrfSBrek_CMzS9yGm4v0Q.png?1568127465)
-![Rufus5](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/2043046201636/original/s4WVCBwFQ_ugEsC1t-OcbCV9aU9mYWCnpw.png?1568127605)
-![Rufus6](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/2043046202579/original/l0t7KqhYed4U5lGi40oCH-FxUqDMfq9_Xg.png?1568127760)
+>Флаш дискээ сонгоно. <br>
+![Rufus2](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/2043046195529/original/_9YiXMVDAsjaxccCMbXp9d_U8Df49OKmCQ.png?1568126656)<br>
+>Select товчыг дараад татаж авсан Үйлдлийн системээ сонгоно. <br>
+![Rufus3](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/2043046196405/original/0Xp-978Us2NzeTjRKbnJmMHjV4katIJwdw.png?1568126821)<br>
+>Бусад тохиргоог өөрчлөх шаардлагагүй. Start товч дээр дарна. Хэрвээ юм асуусан цонх гарч ирвэл дараах зааврын дагуу хийгээрэй.<br>
+![Rufus4](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/2043046200686/original/IRcpmirctCclfCrfSBrek_CMzS9yGm4v0Q.png?1568127465)<br>
+![Rufus5](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/2043046201636/original/s4WVCBwFQ_ugEsC1t-OcbCV9aU9mYWCnpw.png?1568127605)<br>
+![Rufus6](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/2043046202579/original/l0t7KqhYed4U5lGi40oCH-FxUqDMfq9_Xg.png?1568127760)<br>
 
 >Уншиж дуустал нь хүлээнэ.
-
 
 3. Ubuntu үйлдлийн системээ Dual-Boot(Windows үйлдлийн системтэй хамт сууна) хэлбэрээр суулгах тул Disk-ндээ илүү зай гаргах хэрэгтэй. Энэ бичлэгийг дуурайж хийгээрэй. [Холбоос](https://www.youtube.com/watch?v=tJiakVgAtn4). Хэрвээ Dual-boot хэлбэрээр суулгах шаардлагагүй гэж үзэж байвал энэ үйлдлийг алгасаарай. 
 
