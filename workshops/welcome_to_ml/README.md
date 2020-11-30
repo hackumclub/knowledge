@@ -1,6 +1,6 @@
 ---
 name: Машин сургалттай танилц!
-description: Машин сургалт гэдэг зүйлтэй эхнээс нь хамтдаа танилцацгаая
+description: Машин сургалт гэж юу вэ болон анхан шатны ойлголтууд
 author: "@delgerskhn"
 img: "https://miro.medium.com/max/1400/1*VRbrA-5P0bs5qNseo-eU-A.jpeg"
 ---
