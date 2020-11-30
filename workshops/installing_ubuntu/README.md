@@ -1,6 +1,6 @@
 ---
 name: Ubuntu OS-г хэрхэн суулгах вэ?
-description: Ubuntu үйлдлийн системийн талаар болон суулгах заавар
+description: Ubuntu үйлдлийн системийн талаар болон түүнийг суулгах заавар
 author: "@1carl"
 img: "https://vultrpromo.com/wp-content/uploads/2020/03/ubuntu-desktop.jpg"
 ---
