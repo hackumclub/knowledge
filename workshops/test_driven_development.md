@@ -1,5 +1,9 @@
-# Test Driven Development by Grzegorz Gatezowski номын тэмдэглэл 1-р хэсэг
-
+---
+name: Test Driven Development by Grzegorz Gatezowski номын тэмдэглэл 1-р хэсэг
+description: Test Driven Development програмчлалын арга зүйн үндсэн ойлголтууд
+author: "@delgerskhn"
+img: "https://miro.medium.com/max/575/1*KRFMNaxheJL2slDSsfwsnw.png"
+---
 
 ![Image for post](https://miro.medium.com/max/575/1*KRFMNaxheJL2slDSsfwsnw.png)
 
