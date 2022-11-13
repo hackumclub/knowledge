@@ -2,10 +2,10 @@
 name: Ubuntu OS-г хэрхэн суулгах вэ?
 description: Ubuntu үйлдлийн системийн талаар болон түүнийг суулгах заавар
 author: "@1carl"
-img: "https://vultrpromo.com/wp-content/uploads/2020/03/ubuntu-desktop.jpg"
+img: "https://www.profolus.com/wp-content/uploads/2019/08/Ubuntu-Operating-System-Advantages-Disadvantages-720x380.jpg"
 ---
 
-![Ubuntu 1](https://vultrpromo.com/wp-content/uploads/2020/03/ubuntu-desktop.jpg)
+![Ubuntu 1](https://www.profolus.com/wp-content/uploads/2019/08/Ubuntu-Operating-System-Advantages-Disadvantages-720x380.jpg)
 
 Сайн байна уу? Анх зүгээр л сониучирхан өөрийн Laptop-ндоо суулгасан Ubuntu үйлдлийн системээсээ яагаад ч салж чадахгүй болсон шалтгаанаа та бүхэнтэйгээ хуваалцахаар шийдлээ. Мөн Ubuntu үйлдлийн системийг хэрхэн суулгах талаар заавар бас орууллаа. Хэрэглэж үзээгүй үйлдлийн систем суулгачихаар хэцүү гэж айх хэрэггүй шүү. Хүссэн үедээ Windows-оо ашиглах боломжтойгоор суулгах зааврыг нь танилцуулж байна :).
 
